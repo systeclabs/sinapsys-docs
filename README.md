@@ -7,4 +7,8 @@
 <p align="center">An elegant and powerful way to connect.</p>
 
 ## Support
+
+## Contact
+Discussion https://github.com/systeclabs/sinapsys/discussions
+
 ## License
